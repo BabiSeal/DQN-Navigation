@@ -25,7 +25,7 @@ The agent has four discrete actions it can impact the environment by:
 #### When Solved
 
 This is an episodic task where the agent has to learn how best to select the right action to maximize rewards.
-In order to solve this environment the agent must get an average of +13 over 100 consecutive episode
+In order to solve this environment the agent must get an average of +13 over 100 consecutive episodes.
 
 ### Getting Started
 
