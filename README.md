@@ -40,14 +40,7 @@ We would strongly recommend using the ML-Agent v0.4 interface as attempts to coo
 - Pytorch
 - Unity ML-Agents v0.4
 - Jupyter 
-##### Installing the Environment
 
-Again we would recommend using Udacity's provided provided workspace. If you wish to execute this locally, please download the appropriate image based on your operating system
-- Linux: [download](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
-- Max OSX: [download](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
-- Windows (32-bit): [download](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
-- Windows (64-bit): [download](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
-- AWS: [download](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip)
 ### Instructions
 
 #### Files
