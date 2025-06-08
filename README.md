@@ -5,7 +5,7 @@ Submission for Udacity Deep Reinforcement Learning NanoDegree
 
 Train an agent to navigate around in a large square world and collect yellow bananas.  
 
-(!Alt Text)[https://video.udacity-data.com/topher/2018/June/5b1ab4b0_banana/banana.gif]
+[!Alt Text](https://video.udacity-data.com/topher/2018/June/5b1ab4b0_banana/banana.gif)
 
 There is a reward of +1 to collect a yellow banana and a reward of-1 if you collect a blue banana. The goal is to collect as many yellow bananas as possible while avoiding the blue bananas.
 
