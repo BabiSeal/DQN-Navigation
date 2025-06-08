@@ -16,10 +16,11 @@ The state space has 37 dimensions containing the agent's velocity along with ray
 #### Action Space
 
 The agent has four discrete actions it can impact the environment by:
-0. Move Forward
-1. Move Backward 
-2. Turn Left 
-3. Turn Right
+
+ 0. Move Forward
+ 1. Move Backward 
+ 2. Turn Left 
+ 3. Turn Right
 
 This is an episodic task where the agent has to learn how best to best selection actions.
 
